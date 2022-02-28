@@ -1,0 +1,109 @@
+@media (max-width:992px){
+    .header-topbar{
+        display: none;
+    }
+    .contributer-info {
+        margin-bottom: 20px;
+    }
+    .slider-text h2 {
+        width: 375px;
+        font-size: 32px;
+    }
+    .slider-text p {
+        width: 322px;
+        display: inherit;
+        font-size: 15px;
+   }
+   body .btn-primary {
+	font-size: 13px;
+}
+.team-text {
+	margin-left: 0;
+	margin-top: 20px;
+}
+.testomonial {
+	padding: 34px 0;
+}
+.testomonial-item span {
+	font-size: 31px;
+}
+.testomonial-item h3 {
+	font-size: 41px;
+}
+.testomonial-item p {
+	font-size: 15px;
+}
+.defult-text {
+	padding: 13px 0;
+}
+.defult-text h2 {
+	font-size: 30px;
+	margin-bottom: -10px;
+}
+.defult-text p {
+	width: 395px;
+}
+.form-item img {
+	width: 100%;
+}
+.form-item h2 {
+	font-size: 17px;
+	margin-top: 18px;
+}
+.pricing-item {
+	padding: 10% 3%;
+}
+.pricing-item h4 {
+	font-size: 25px;
+}
+.pricing-item h2 {
+	font-size: 42px;
+}
+.pricing-item ul li {
+	font-size: 16px;
+}
+.protfolio-text h2 {
+	font-size: 15px;
+}
+.sub-bg {
+	padding: 17px 29px;
+}
+.subs-text h2 {
+	font-size: 19px;
+	margin-bottom: 22px;
+}
+.subs-buttom input {
+	padding: 10px 11px;
+}
+input.inp2 {
+	padding: 10px 23px;
+}
+.call-sec span {
+	font-size: 15px;
+	margin-top: 13px;
+}
+input.inp2 {
+	left: 115px;
+}
+.social-icons {
+	width: 250px;
+}
+.footer-bottom-r ul li a {
+	padding: 0 1px;
+}
+.user-link ul {
+	padding: 20px;
+	margin-top: 0;
+}
+.locatiom p {
+	width: 100%;
+	margin-left: 23px;
+}
+.about-it p {
+	width: 100%;
+	margin: 25px 0;
+}
+
+
+
+}
